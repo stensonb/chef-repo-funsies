@@ -1,4 +1,4 @@
-name "prod"
+name "bryan-workflow-testing"
 
 cookbook "xfs", "= 0.1.0"
 cookbook "xml", "= 0.1.0"
