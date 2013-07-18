@@ -1,6 +1,6 @@
 name "support"
 
-cookbook "xfs", "= 4.8.9"
+cookbook "xfs", "= 0.1.0"
 cookbook "xml", "= 0.1.0"
 cookbook "yum", "= 0.5.2"
 cookbook "zsh", "= 0.7.0"
