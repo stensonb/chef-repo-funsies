@@ -1,6 +1,6 @@
 name "bryan-workflow-testing"
 
-cookbook "xfs", "= 0.1.0"
+cookbook "apt", "= 1.4.6"
 cookbook "xml", "= 0.1.0"
 cookbook "yum", "= 0.5.2"
 cookbook "zsh", "= 0.7.0"
