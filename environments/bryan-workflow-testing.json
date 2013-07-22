@@ -1,0 +1,1 @@
+{"name":"bryan-workflow-testing","description":"","cookbook_versions":{"apt":"= 1.4.6","xml":"= 0.1.0","yum":"= 0.5.2","zsh":"= 0.7.0"},"json_class":"Chef::Environment","chef_type":"environment","default_attributes":{},"override_attributes":{}}
