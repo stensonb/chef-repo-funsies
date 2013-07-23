@@ -1,1 +1,1 @@
-{"chef_type":"environment","json_class":"Chef::Environment","name":"bryan-workflow-testing-again","description":"","default_attributes":{},"override_attributes":{},"cookbook_versions":{"apt":"= 2.0.0","xml":"= 0.1.0","yum":"= 0.5.2","zsh":"= 0.7.0"}}
+{"chef_type":"environment","json_class":"Chef::Environment","name":"bryan-workflow-testing-again","description":"","default_attributes":{},"override_attributes":{},"cookbook_versions":{"apt":"= 1.4.6","xml":"= 0.1.0","yum":"= 0.5.2","zsh":"= 0.7.0"}}
