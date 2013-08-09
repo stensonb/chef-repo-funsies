@@ -1,1 +1,13 @@
-{"chef_type":"environment","json_class":"Chef::Environment","name":"bryan-workflow-testing-again","description":"","default_attributes":{},"override_attributes":{},"cookbook_versions":{}}
+{
+  "chef_type": "environment",
+  "json_class": "Chef::Environment",
+  "name": "bryan-workflow-testing-again",
+  "description": "",
+  "default_attributes": {
+  },
+  "override_attributes": {
+  },
+  "cookbook_versions": {
+    "ppa_utilities": "= 0.2.0"
+  }
+}
